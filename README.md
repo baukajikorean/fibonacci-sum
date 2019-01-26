@@ -76,5 +76,3 @@ These are Fibonacci numbers until - 4000000! Please, consider them:
 Sum of even Fibonacci numbers of - 4000000 is ====> 4613732!!!
 
 Thanks for attention!
-
-XYWYZ
